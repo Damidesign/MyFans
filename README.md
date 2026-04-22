@@ -26,6 +26,26 @@
 
 ---
 
+## 🗺️ Roadmap
+
+Stay updated on MyFans development and planned features:
+
+- **[Public Roadmap Board](https://github.com/MyFanss/MyFans/projects/1)** – Real-time view of in-progress, planned, and completed features
+- **[GitHub Issues](https://github.com/MyFanss/MyFans/issues)** – Report bugs, request features, or join discussions
+- **[Architecture Decisions](./docs/adr/)** – ADRs document key technical decisions and trade-offs
+
+### Current Phase
+We are in **Active Development** focusing on:
+- ✅ Soroban smart contract implementation (subscription lifecycle, payments)
+- ✅ Backend API and event indexing (Nest.js, PostgreSQL)
+- 🔄 Frontend dashboard and wallet integration (Next.js)
+- 📋 Security audits and testnet deployment
+- 🎯 Mainnet launch
+
+**[View the full roadmap](https://github.com/MyFanss/MyFans/projects/1)** to see milestones, timelines, and how you can contribute.
+
+---
+
 ## Architecture Overview
 
 ```
